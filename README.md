@@ -1,4 +1,4 @@
-<h2 style="color:green;">Online Exam Portal</h2> 
+<h2>Online Exam Portal</h2> 
 I am creating the online exam portal project. This is MCQ based exam. In am project there are two types of user one is user admin and another is user student.<br>
 The user admin manage the all question that means we can add, update, delete the question and also we can set the duration of exam. The user student will give the exam.<br>
 The user student login the portal that time he select the subject for which he give the exam, subject can be JAVA, MATH, ANGULAR etc. The user student display the one question at a time. He submit the first question he go to the next or previous question. User student update the answer also. Once user student end the exam, score will be calculate and display. He display the Question, Submitted Question and Correct Answer at the end of exam.<br>
